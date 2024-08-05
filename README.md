@@ -1,12 +1,11 @@
 ### Hi there, I'm Mayeen 👋
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayeen.ayoub@gmail.com)
+<!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayeen.ayoub@gmail.com) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayeen-ayoub/)
 [![Devpost](https://img.shields.io/badge/DevPost-003e54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/mayeen-ayoub)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mayeen-ayoub.github.io/)
 
-<!--
-[![Portfolio](https://img.shields.io/badge/hajarassim-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.H.com/)
-**mayeen-ayoub/mayeen-ayoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**mayeen-ayoub/mayeen-ayoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
